@@ -1,0 +1,89 @@
+{
+  "id": "whaleshark",
+  "label": "海遊館・鯨鯊",
+  "title": "Whale Shark - Osaka Aquarium.jpg",
+  "file": "assets/images/whaleshark.jpg",
+  "small": "assets/images/whaleshark-small.jpg",
+  "photographer": "Aoates",
+  "source": "https://commons.wikimedia.org/wiki/File:Whale_Shark_-_Osaka_Aquarium.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Whale_Shark_-_Osaka_Aquarium.jpg",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+  "retrieved": "2026-11-01",
+  "metadata": {
+    "DateTime": {
+      "value": "2010-07-20 14:06:55",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Whale Shark - Osaka Aquarium",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Taken with Olympus E-510|Self-published work|Rhincodon typus in Osaka Aquarium",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Whale shark at the Osaka Aquarium main tank exhibit",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2010-07-08",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Aoates&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Aoates (page does not exist)\">Aoates</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 3.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 3.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/3.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-3.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

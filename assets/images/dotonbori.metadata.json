@@ -1,0 +1,102 @@
+{
+  "id": "dotonbori",
+  "label": "大阪・道頓堀",
+  "title": "Dotonbori, Osaka, at night, November 2016.jpg",
+  "file": "assets/images/dotonbori.jpg",
+  "small": "assets/images/dotonbori-small.jpg",
+  "photographer": "Martin Falbisoner",
+  "source": "https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+  "retrieved": "2026-11-01",
+  "metadata": {
+    "DateTime": {
+      "value": "2016-11-29 13:27:59",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Dotonbori, Osaka, at night, November 2016",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Self-published work|Cityscapes in Osaka|Featured Pictures by Martin Falbisoner|Featured pictures of Osaka|Featured pictures of cityscapes|Water reflections of lights in Japan|November 2016 in Osaka|Water reflections of cityscapes in Japan|Files with coordinates missing SDC location of creation|Japan photographs taken on 2016-11-16|Asahi Super Dry advertisements in Osaka|Views of Ebisu Bridge from Dōtonbori Bridge at night|Views of the Glico Man (2014) from Dōtonbori Bridge at night",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "quality|featured|valued|potd",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "GPSLatitude": {
+      "value": "34.669083",
+      "source": "commons-desc-page"
+    },
+    "GPSLongitude": {
+      "value": "135.500556",
+      "source": "commons-desc-page"
+    },
+    "GPSMapDatum": {
+      "value": "WGS-84",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Wall of signboards at Ebisu Bridge on the <a href=\"https://en.wikipedia.org/wiki/Dotonbori\" class=\"extiw\" title=\"en:Dotonbori\">Dōtonbori</a> Canal, <a href=\"https://en.wikipedia.org/wiki/Osaka\" class=\"extiw\" title=\"en:Osaka\">Osaka</a>, <a href=\"https://en.wikipedia.org/wiki/Japan\" class=\"extiw\" title=\"en:Japan\">Japan</a>.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2016-11-16 19:34:23",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<bdi>Martin Falbisoner</bdi>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY-SA 4.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution-Share Alike 4.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-sa-4.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

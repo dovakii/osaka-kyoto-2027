@@ -1,0 +1,1388 @@
+[
+  {
+    "id": "kiyomizu",
+    "label": "清水寺・秋色",
+    "title": "Kiyomizu-dera in Kyoto-r.jpg",
+    "file": "assets/images/kiyomizu.jpg",
+    "small": "assets/images/kiyomizu-small.jpg",
+    "photographer": "Oilstreet",
+    "source": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera_in_Kyoto-r.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kiyomizu-dera_in_Kyoto-r.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+    "retrieved": "2026-11-01",
+    "metadata": {
+      "DateTime": {
+        "value": "2010-01-01 08:10:56",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Kiyomizu-dera in Kyoto-r",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Taken with Panasonic Lumix DMC-FX55|License migration redundant|Self-published work|Autumn in Kyoto|Photographs taken on 2008-12-04|December 2008 in Kyoto|Views of the Main Hall, Kiyomizu-dera with leaves in autumn from the Okunoin",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Kiyomizu-dera (清水寺), Kyoto, Kyoto prefecture, Japan",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2008-12-04",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Oilstreet",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Oilstreet",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "GFDL+creative commons2.5",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.5",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.5",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.5",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.5",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "arashiyama",
+    "label": "嵐山・渡月橋",
+    "title": "Togetsukyo0270.jpg",
+    "file": "assets/images/arashiyama.jpg",
+    "small": "assets/images/arashiyama-small.jpg",
+    "photographer": "user:Fg2",
+    "source": "https://commons.wikimedia.org/wiki/File:Togetsukyo0270.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Togetsukyo0270.jpg",
+    "license": "Public domain",
+    "license_url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+    "retrieved": "2026-11-01",
+    "metadata": {
+      "DateTime": {
+        "value": "2005-03-26 05:27:20",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Togetsukyo0270",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Minolta Dimage 7|Self-published work|PD-self|Autumn in Kyoto|Incorrect Exif date|Leaves in autumn in Kyoto|Togetsukyo with leaves in autumn",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Togetsukyo, the bridge to heaven, in Kyoto, Japan.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "Date, time or both in the file <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif metadata</a></span> are incorrect/invalid.",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Fg2\" title=\"User:Fg2\">user:Fg2</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>I, the copyright holder of this work, release this work into the <b><a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a></b>. This applies worldwide.<br><small>In some countries this may not be legally possible; if so:</small><br><i>I grant anyone the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n</td></tr></tbody></table>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "sagano",
+    "label": "嵯峨野小火車・秋景",
+    "title": "Autumn foliage 2012 (8252583379).jpg",
+    "file": "assets/images/sagano.jpg",
+    "small": "assets/images/sagano-small.jpg",
+    "photographer": "Takeshi Kuboki from Amagasaki, Japan",
+    "source": "https://commons.wikimedia.org/wiki/File:Autumn_foliage_2012_(8252583379).jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Autumn_foliage_2012_%288252583379%29.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+    "retrieved": "2026-11-01",
+    "metadata": {
+      "DateTime": {
+        "value": "2014-03-29 04:58:33",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Autumn foliage 2012 (8252583379)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Nikon D7000|Hozugawa Bridge|Flickr images reviewed by FlickreviewR|Autumn in Kyoto prefecture|November 2012 in rail transport in Kyoto prefecture|November 2012 in Kyoto|Trains on bridges in Kyoto prefecture|Trains in Ukyo-ku, Kyoto|Japan photographs taken on 2012-11-24|Trains with fall foliage|Photographs by Takeshi Kuboki|Rolling stock of Sagano Scenic Railway",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<p>short trip: Arashiyama and Kiyotaki, Kyoto, Japan.\n</p>\n2012-11-24",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "Taken on 24 November 2012, 11:52",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/kuboki/8252583379/\">autumn foliage 2012</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/40802894@N02\">Takeshi Kuboki</a> from Amagasaki, Japan",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "yasaka",
+    "label": "東山・八坂塔",
+    "title": "Yasakanoto Hokanji-temple Kyoto.jpg",
+    "file": "assets/images/yasaka.jpg",
+    "small": "assets/images/yasaka-small.jpg",
+    "photographer": "Tomomarusan",
+    "source": "https://commons.wikimedia.org/wiki/File:Yasakanoto_Hokanji-temple_Kyoto.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Yasakanoto_Hokanji-temple_Kyoto.jpg",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+    "retrieved": "2026-11-01",
+    "metadata": {
+      "DateTime": {
+        "value": "2007-07-21 13:00:42",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Yasakanoto Hokanji-temple Kyoto",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|License migration redundant|Self-published work|March 2007 in Kyoto|Views of Yasaka no Tō from Yumemi-zaka|Views of Yasaka no Tō from Yasaka Dōri at night",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Yasaka-no-to",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2007-03-29",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "This is the creation of <a href=\"//commons.wikimedia.org/wiki/User:Tomomarusan\" title=\"User:Tomomarusan\">Tomomarusan</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tomomarusan\" title=\"User:Tomomarusan\">Tomomarusan</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "GFDL+creative commons2.5",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.5",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.5",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.5",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.5",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "railway",
+    "label": "京都鐵道博物館",
+    "title": "Kyoto Railway Museum from train of Tokaido Main Line.jpg",
+    "file": "assets/images/railway.jpg",
+    "small": "assets/images/railway-small.jpg",
+    "photographer": "そらみみ",
+    "source": "https://commons.wikimedia.org/wiki/File:Kyoto_Railway_Museum_from_train_of_Tokaido_Main_Line.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Kyoto_Railway_Museum_from_train_of_Tokaido_Main_Line.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+    "retrieved": "2026-11-01",
+    "metadata": {
+      "DateTime": {
+        "value": "2019-02-17 20:42:20",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Kyoto Railway Museum from train of Tokaido Main Line",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Kyoto Freight Terminal|Exterior of the Kyoto Railway Museum|Self-published work|Views from trains in Japan|Files with coordinates missing SDC location of creation|2019 at the Kyoto Railway Museum|February 2019 in rail transport in Kyoto prefecture|Railway photographs taken on 2019-02-01|Kyoto photographs taken on 2019-02-01",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "34.984719",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "135.742111",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "JR京都線の列車内より望む京都貨物駅と京都鉄道博物館",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1 February 2019 12:37:29",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF\" title=\"User:そらみみ\">そらみみ</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "aquarium",
+    "label": "大阪海遊館",
+    "title": "Kaiyukan.JPG",
+    "file": "assets/images/aquarium.jpg",
+    "small": "assets/images/aquarium-small.jpg",
+    "photographer": "Teddy Yoshida (Harajuku at English Wikipedia)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaiyukan.JPG",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kaiyukan.JPG",
+    "license": "Public domain",
+    "license_url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+    "retrieved": "2026-11-01",
+    "metadata": {
+      "DateTime": {
+        "value": "2015-07-27 06:47:10",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Kaiyukan",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Osaka Aquarium|PD-link",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Kaiyukan Aquarium in Osaka, Japan.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2002-10-21",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons.</bdi>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Teddy Yoshida (<a href=\"https://en.wikipedia.org/wiki/User:Harajuku\" class=\"extiw\" title=\"wikipedia:User:Harajuku\">Harajuku</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>)",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "usj",
+    "label": "日本環球影城",
+    "title": "Universal Studios in Japan.jpg",
+    "file": "assets/images/usj.jpg",
+    "small": "assets/images/usj-small.jpg",
+    "photographer": "Leeyj0401",
+    "source": "https://commons.wikimedia.org/wiki/File:Universal_Studios_in_Japan.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Universal_Studios_in_Japan.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+    "retrieved": "2026-11-01",
+    "metadata": {
+      "DateTime": {
+        "value": "2022-10-21 06:49:43",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Universal Studios in Japan",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Universal Studios Japan|Self-published work|Universal Studios in 2022",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Universal Studios in Japan",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2022-10-21",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Leeyj0401&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Leeyj0401 (page does not exist)\">Leeyj0401</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "nintendo",
+    "label": "超級任天堂世界入口・歷史實景",
+    "title": "Super Nintendo World Entrance 5th Anniversary decoration at Universal Studios Japan.jpg",
+    "file": "assets/images/nintendo.jpg",
+    "small": "assets/images/nintendo-small.jpg",
+    "photographer": "archive 2025 ark",
+    "source": "https://commons.wikimedia.org/wiki/File:Super_Nintendo_World_Entrance_5th_Anniversary_decoration_at_Universal_Studios_Japan.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Super_Nintendo_World_Entrance_5th_Anniversary_decoration_at_Universal_Studios_Japan.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+    "retrieved": "2026-11-01",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-03-13 17:08:04",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Super Nintendo World Entrance 5th Anniversary decoration at Universal Studios Japan",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Warp Pipe|Super Nintendo World (Universal Studios Japan)",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Super Nintendo World Entrance 5th Anniversary decoration at Universal Studios Japan",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2026-03-13",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/supernintendoworld5thentrance\">https://archive.org/details/supernintendoworld5thentrance</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "archive 2025 ark",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "station",
+    "label": "京都車站",
+    "title": "Kyoto-STA Central.jpg",
+    "file": "assets/images/station.jpg",
+    "small": "assets/images/station-small.jpg",
+    "photographer": "MaedaAkihiko",
+    "source": "https://commons.wikimedia.org/wiki/File:Kyoto-STA_Central.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Kyoto-STA_Central.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+    "retrieved": "2026-11-01",
+    "metadata": {
+      "DateTime": {
+        "value": "2025-07-01 01:40:17",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Kyoto-STA Central",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Self-published work|FoP-Japan|Kyoto Station building (1997)|Taken with Panasonic Lumix DC-FZ1000 II|Japan photographs taken on 2025-06-18|June 2025 in rail transport in Kyoto prefecture|Railway photographs taken on 2025-06-18",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "JR Kyoto Station Building exterior (Central Exit side)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2025-06-18",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:MaedaAkihiko\" title=\"User:MaedaAkihiko\">MaedaAkihiko</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "dotonbori",
+    "label": "大阪・道頓堀",
+    "title": "Dotonbori, Osaka, at night, November 2016.jpg",
+    "file": "assets/images/dotonbori.jpg",
+    "small": "assets/images/dotonbori-small.jpg",
+    "photographer": "Martin Falbisoner",
+    "source": "https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Dotonbori%2C_Osaka%2C_at_night%2C_November_2016.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+    "retrieved": "2026-11-01",
+    "metadata": {
+      "DateTime": {
+        "value": "2016-11-29 13:27:59",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Dotonbori, Osaka, at night, November 2016",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Cityscapes in Osaka|Featured Pictures by Martin Falbisoner|Featured pictures of Osaka|Featured pictures of cityscapes|Water reflections of lights in Japan|November 2016 in Osaka|Water reflections of cityscapes in Japan|Files with coordinates missing SDC location of creation|Japan photographs taken on 2016-11-16|Asahi Super Dry advertisements in Osaka|Views of Ebisu Bridge from Dōtonbori Bridge at night|Views of the Glico Man (2014) from Dōtonbori Bridge at night",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality|featured|valued|potd",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "34.669083",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "135.500556",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Wall of signboards at Ebisu Bridge on the <a href=\"https://en.wikipedia.org/wiki/Dotonbori\" class=\"extiw\" title=\"en:Dotonbori\">Dōtonbori</a> Canal, <a href=\"https://en.wikipedia.org/wiki/Osaka\" class=\"extiw\" title=\"en:Osaka\">Osaka</a>, <a href=\"https://en.wikipedia.org/wiki/Japan\" class=\"extiw\" title=\"en:Japan\">Japan</a>.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2016-11-16 19:34:23",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<bdi>Martin Falbisoner</bdi>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "shinkansen",
+    "label": "京都鐵道博物館・新幹線",
+    "title": "Kyoto Railway Museum Shinkansen Series 500 car 521-1.jpg",
+    "file": "assets/images/shinkansen.jpg",
+    "small": "assets/images/shinkansen-small.jpg",
+    "photographer": "KishujiRapid",
+    "source": "https://commons.wikimedia.org/wiki/File:Kyoto_Railway_Museum_Shinkansen_Series_500_car_521-1.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Kyoto_Railway_Museum_Shinkansen_Series_500_car_521-1.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+    "retrieved": "2026-11-01",
+    "metadata": {
+      "DateTime": {
+        "value": "2017-05-04 09:34:54",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Kyoto Railway Museum Shinkansen Series 500 car 521-1",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Canon Digital IXUS 275 HS|Self-published work|May 2017 in Kyoto|May 2017 in rail transport in Kyoto prefecture|Japan photographs taken on 2017-05-03|2017 at the Kyoto Railway Museum|Shinkansen Series 500 car 521-1|Main building of the Kyoto Railway Museum",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "京都鉄道博物館 500系新幹線521-1",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017-05-03 10:58:40",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:KishujiRapid&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:KishujiRapid (page does not exist)\">KishujiRapid</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "whaleshark",
+    "label": "海遊館・鯨鯊",
+    "title": "Whale Shark - Osaka Aquarium.jpg",
+    "file": "assets/images/whaleshark.jpg",
+    "small": "assets/images/whaleshark-small.jpg",
+    "photographer": "Aoates",
+    "source": "https://commons.wikimedia.org/wiki/File:Whale_Shark_-_Osaka_Aquarium.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Whale_Shark_-_Osaka_Aquarium.jpg",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+    "retrieved": "2026-11-01",
+    "metadata": {
+      "DateTime": {
+        "value": "2010-07-20 14:06:55",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Whale Shark - Osaka Aquarium",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Olympus E-510|Self-published work|Rhincodon typus in Osaka Aquarium",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Whale shark at the Osaka Aquarium main tank exhibit",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-07-08",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Aoates&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Aoates (page does not exist)\">Aoates</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "tenryuji",
+    "label": "天龍寺庭園",
+    "title": "Garden at Tenryuji Temple 3.jpg",
+    "file": "assets/images/tenryuji.jpg",
+    "small": "assets/images/tenryuji-small.jpg",
+    "photographer": "Gavin Anderson",
+    "source": "https://commons.wikimedia.org/wiki/File:Garden_at_Tenryuji_Temple_3.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Garden_at_Tenryuji_Temple_3.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+    "retrieved": "2026-11-01",
+    "metadata": {
+      "DateTime": {
+        "value": "2010-11-30 21:03:46",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Garden at Tenryuji Temple 3",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Canon PowerShot A430|Flickr images uploaded by Flickr upload bot|Flowers in Tenryuji Garden",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "with flowering trees",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2007-04-13 12:42:08",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "originally posted to <b><a href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\">Flickr</a></b> as <a rel=\"nofollow\" class=\"external text\" href=\"https://flickr.com/photos/48292998@N00/484773631\">Garden at Tenryuji Temple</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://flickr.com/people/48292998@N00\">Gavin Anderson</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<table id=\"FlickrReview\" style=\"width:100%; margin:0.3em auto; text-align:start; background-color:var(--background-color-success-subtle,#d5fdf4); padding: 3px; border:1px solid var(--border-color-base,#a2a9b1); color:inherit;\" dir=\"ltr\" lang=\"en\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><a href=\"https://en.wikipedia.org/wiki/Flickr\" class=\"extiw\" title=\"en:Flickr\">Flickr</a></b>, was uploaded to Commons using <b><a href=\"//commons.wikimedia.org/wiki/User:Flickr_upload_bot\" title=\"User:Flickr upload bot\">Flickr upload bot</a></b> on 30 November 2010, 21:03 by <span id=\"flickr_upload_bot_reviewer\"><b><a href=\"//commons.wikimedia.org/wiki/User:Catfisheye\" title=\"User:Catfisheye\">Catfisheye</a></b></span>. On that date, it was confirmed to be licensed under the terms of the license indicated.\n</td>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/60px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flickr_dots.svg/120px-Flickr_dots.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span>\n</td></tr></tbody></table>\n<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "bamboo",
+    "label": "嵐山・竹林",
+    "title": "Bamboo Forest, Arashiyama, Kyoto, Japan.jpg",
+    "file": "assets/images/bamboo.jpg",
+    "small": "assets/images/bamboo-small.jpg",
+    "photographer": "Basile Morin",
+    "source": "https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+    "retrieved": "2026-11-01",
+    "metadata": {
+      "DateTime": {
+        "value": "2020-01-13 04:56:49",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Bamboo Forest, Arashiyama, Kyoto, Japan",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Sagano Bamboo forest|Taken with Canon EOS 5D Mark IV and Canon EF 24-70mm F2.8L II USM|Self-published work|Unidentified Bambusoideae|Long exposure photographs of Japan|Focus stacking images of plants|Exposure time 6 sec|Files with coordinates missing SDC location of creation|Featured pictures by Basile Morin|Created with Helicon Focus|Featured pictures of Kyoto|Photographs by Basile Morin|Featured pictures of Poales|Published photographs by Basile Morin|Kyoto photographs taken on 2019-06-10",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality|featured|potd",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "35.016858",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "135.670383",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/Bamboo_Forest_(Kyoto,_Japan)\" class=\"extiw\" title=\"en:Bamboo Forest (Kyoto, Japan)\">Bamboo Forest</a>, <a href=\"https://en.wikipedia.org/wiki/Arashiyama\" class=\"extiw\" title=\"en:Arashiyama\">Arashiyama</a>, <a href=\"https://en.wikipedia.org/wiki/Kyoto\" class=\"extiw\" title=\"en:Kyoto\">Kyoto</a>, <a href=\"https://en.wikipedia.org/wiki/Japan\" class=\"extiw\" title=\"en:Japan\">Japan</a>. <a href=\"https://en.wikipedia.org/wiki/Focus_stacking\" class=\"extiw\" title=\"en:Focus stacking\">Focus stacking</a> from 6 pictures (long exposure photography).",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "10 June 2019 13:28:00",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "id": "tempozan",
+    "label": "天保山摩天輪",
+    "title": "Tempozan Ferris Wheel in Osaka at Dusk.jpg",
+    "file": "assets/images/tempozan.jpg",
+    "small": "assets/images/tempozan-small.jpg",
+    "photographer": "TimBray",
+    "source": "https://commons.wikimedia.org/wiki/File:Tempozan_Ferris_Wheel_in_Osaka_at_Dusk.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Tempozan_Ferris_Wheel_in_Osaka_at_Dusk.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+    "retrieved": "2026-11-01",
+    "metadata": {
+      "DateTime": {
+        "value": "2022-12-19 00:22:35",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Tempozan Ferris Wheel in Osaka at Dusk",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Evening in Osaka prefecture|Ferris wheel (Tempōzan)",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Photographed from a hotel room on November 1, 2011. There are many photos of this wheel but the sunset and the buildings' illuminated windows make this one visually dramatic.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2011-11-01",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:TimBray\" title=\"User:TimBray\">TimBray</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+]

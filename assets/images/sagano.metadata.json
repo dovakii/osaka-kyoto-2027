@@ -1,0 +1,89 @@
+{
+  "id": "sagano",
+  "label": "嵯峨野小火車・秋景",
+  "title": "Autumn foliage 2012 (8252583379).jpg",
+  "file": "assets/images/sagano.jpg",
+  "small": "assets/images/sagano-small.jpg",
+  "photographer": "Takeshi Kuboki from Amagasaki, Japan",
+  "source": "https://commons.wikimedia.org/wiki/File:Autumn_foliage_2012_(8252583379).jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Autumn_foliage_2012_%288252583379%29.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+  "retrieved": "2026-11-01",
+  "metadata": {
+    "DateTime": {
+      "value": "2014-03-29 04:58:33",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Autumn foliage 2012 (8252583379)",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Taken with Nikon D7000|Hozugawa Bridge|Flickr images reviewed by FlickreviewR|Autumn in Kyoto prefecture|November 2012 in rail transport in Kyoto prefecture|November 2012 in Kyoto|Trains on bridges in Kyoto prefecture|Trains in Ukyo-ku, Kyoto|Japan photographs taken on 2012-11-24|Trains with fall foliage|Photographs by Takeshi Kuboki|Rolling stock of Sagano Scenic Railway",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "<p>short trip: Arashiyama and Kiyotaki, Kyoto, Japan.\n</p>\n2012-11-24",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "Taken on 24 November 2012, 11:52",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/kuboki/8252583379/\">autumn foliage 2012</a>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/40802894@N02\">Takeshi Kuboki</a> from Amagasaki, Japan",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY 2.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 2.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/2.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-2.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

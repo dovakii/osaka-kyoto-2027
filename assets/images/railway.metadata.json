@@ -1,0 +1,102 @@
+{
+  "id": "railway",
+  "label": "京都鐵道博物館",
+  "title": "Kyoto Railway Museum from train of Tokaido Main Line.jpg",
+  "file": "assets/images/railway.jpg",
+  "small": "assets/images/railway-small.jpg",
+  "photographer": "そらみみ",
+  "source": "https://commons.wikimedia.org/wiki/File:Kyoto_Railway_Museum_from_train_of_Tokaido_Main_Line.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Kyoto_Railway_Museum_from_train_of_Tokaido_Main_Line.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+  "retrieved": "2026-11-01",
+  "metadata": {
+    "DateTime": {
+      "value": "2019-02-17 20:42:20",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Kyoto Railway Museum from train of Tokaido Main Line",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Kyoto Freight Terminal|Exterior of the Kyoto Railway Museum|Self-published work|Views from trains in Japan|Files with coordinates missing SDC location of creation|2019 at the Kyoto Railway Museum|February 2019 in rail transport in Kyoto prefecture|Railway photographs taken on 2019-02-01|Kyoto photographs taken on 2019-02-01",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "GPSLatitude": {
+      "value": "34.984719",
+      "source": "commons-desc-page"
+    },
+    "GPSLongitude": {
+      "value": "135.742111",
+      "source": "commons-desc-page"
+    },
+    "GPSMapDatum": {
+      "value": "WGS-84",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "JR京都線の列車内より望む京都貨物駅と京都鉄道博物館",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "1 February 2019 12:37:29",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E3%81%9D%E3%82%89%E3%81%BF%E3%81%BF\" title=\"User:そらみみ\">そらみみ</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY-SA 4.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution-Share Alike 4.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-sa-4.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "bamboo",
+  "label": "嵐山・竹林",
+  "title": "Bamboo Forest, Arashiyama, Kyoto, Japan.jpg",
+  "file": "assets/images/bamboo.jpg",
+  "small": "assets/images/bamboo-small.jpg",
+  "photographer": "Basile Morin",
+  "source": "https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bamboo_Forest%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+  "retrieved": "2026-11-01",
+  "metadata": {
+    "DateTime": {
+      "value": "2020-01-13 04:56:49",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Bamboo Forest, Arashiyama, Kyoto, Japan",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Sagano Bamboo forest|Taken with Canon EOS 5D Mark IV and Canon EF 24-70mm F2.8L II USM|Self-published work|Unidentified Bambusoideae|Long exposure photographs of Japan|Focus stacking images of plants|Exposure time 6 sec|Files with coordinates missing SDC location of creation|Featured pictures by Basile Morin|Created with Helicon Focus|Featured pictures of Kyoto|Photographs by Basile Morin|Featured pictures of Poales|Published photographs by Basile Morin|Kyoto photographs taken on 2019-06-10",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "quality|featured|potd",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "GPSLatitude": {
+      "value": "35.016858",
+      "source": "commons-desc-page"
+    },
+    "GPSLongitude": {
+      "value": "135.670383",
+      "source": "commons-desc-page"
+    },
+    "GPSMapDatum": {
+      "value": "WGS-84",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "<a href=\"https://en.wikipedia.org/wiki/Bamboo_Forest_(Kyoto,_Japan)\" class=\"extiw\" title=\"en:Bamboo Forest (Kyoto, Japan)\">Bamboo Forest</a>, <a href=\"https://en.wikipedia.org/wiki/Arashiyama\" class=\"extiw\" title=\"en:Arashiyama\">Arashiyama</a>, <a href=\"https://en.wikipedia.org/wiki/Kyoto\" class=\"extiw\" title=\"en:Kyoto\">Kyoto</a>, <a href=\"https://en.wikipedia.org/wiki/Japan\" class=\"extiw\" title=\"en:Japan\">Japan</a>. <a href=\"https://en.wikipedia.org/wiki/Focus_stacking\" class=\"extiw\" title=\"en:Focus stacking\">Focus stacking</a> from 6 pictures (long exposure photography).",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "10 June 2019 13:28:00",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY-SA 4.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution-Share Alike 4.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-sa-4.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

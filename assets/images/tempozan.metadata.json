@@ -1,0 +1,89 @@
+{
+  "id": "tempozan",
+  "label": "天保山摩天輪",
+  "title": "Tempozan Ferris Wheel in Osaka at Dusk.jpg",
+  "file": "assets/images/tempozan.jpg",
+  "small": "assets/images/tempozan-small.jpg",
+  "photographer": "TimBray",
+  "source": "https://commons.wikimedia.org/wiki/File:Tempozan_Ferris_Wheel_in_Osaka_at_Dusk.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Tempozan_Ferris_Wheel_in_Osaka_at_Dusk.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+  "retrieved": "2026-11-01",
+  "metadata": {
+    "DateTime": {
+      "value": "2022-12-19 00:22:35",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Tempozan Ferris Wheel in Osaka at Dusk",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "Self-published work|Evening in Osaka prefecture|Ferris wheel (Tempōzan)",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Photographed from a hotel room on November 1, 2011. There are many photos of this wheel but the sunset and the buildings' illuminated windows make this one visually dramatic.",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2011-11-01",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:TimBray\" title=\"User:TimBray\">TimBray</a>",
+      "source": "commons-desc-page"
+    },
+    "LicenseShortName": {
+      "value": "CC BY-SA 4.0",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution-Share Alike 4.0",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-sa-4.0",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}

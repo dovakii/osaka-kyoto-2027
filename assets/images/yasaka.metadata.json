@@ -1,0 +1,94 @@
+{
+  "id": "yasaka",
+  "label": "東山・八坂塔",
+  "title": "Yasakanoto Hokanji-temple Kyoto.jpg",
+  "file": "assets/images/yasaka.jpg",
+  "small": "assets/images/yasaka-small.jpg",
+  "photographer": "Tomomarusan",
+  "source": "https://commons.wikimedia.org/wiki/File:Yasakanoto_Hokanji-temple_Kyoto.jpg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Yasakanoto_Hokanji-temple_Kyoto.jpg",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "changes": "JPEG resized/recompressed to 1800px and 800px; CSS cover crop. Image derivatives retain the source license.",
+  "retrieved": "2026-11-01",
+  "metadata": {
+    "DateTime": {
+      "value": "2007-07-21 13:00:42",
+      "source": "mediawiki-metadata",
+      "hidden": ""
+    },
+    "ObjectName": {
+      "value": "Yasakanoto Hokanji-temple Kyoto",
+      "source": "mediawiki-metadata"
+    },
+    "CommonsMetadataExtension": {
+      "value": 1.2,
+      "source": "extension",
+      "hidden": ""
+    },
+    "Categories": {
+      "value": "GFDL|License migration redundant|Self-published work|March 2007 in Kyoto|Views of Yasaka no Tō from Yumemi-zaka|Views of Yasaka no Tō from Yasaka Dōri at night",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "Assessments": {
+      "value": "",
+      "source": "commons-categories",
+      "hidden": ""
+    },
+    "ImageDescription": {
+      "value": "Yasaka-no-to",
+      "source": "commons-desc-page"
+    },
+    "DateTimeOriginal": {
+      "value": "2007-03-29",
+      "source": "commons-desc-page"
+    },
+    "Credit": {
+      "value": "This is the creation of <a href=\"//commons.wikimedia.org/wiki/User:Tomomarusan\" title=\"User:Tomomarusan\">Tomomarusan</a>",
+      "source": "commons-desc-page"
+    },
+    "Artist": {
+      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tomomarusan\" title=\"User:Tomomarusan\">Tomomarusan</a>",
+      "source": "commons-desc-page"
+    },
+    "Permission": {
+      "value": "GFDL+creative commons2.5",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseShortName": {
+      "value": "CC BY 2.5",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "UsageTerms": {
+      "value": "Creative Commons Attribution 2.5",
+      "source": "commons-desc-page"
+    },
+    "AttributionRequired": {
+      "value": "true",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "LicenseUrl": {
+      "value": "https://creativecommons.org/licenses/by/2.5",
+      "source": "commons-desc-page"
+    },
+    "Copyrighted": {
+      "value": "True",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "Restrictions": {
+      "value": "",
+      "source": "commons-desc-page",
+      "hidden": ""
+    },
+    "License": {
+      "value": "cc-by-2.5",
+      "source": "commons-templates",
+      "hidden": ""
+    }
+  }
+}
