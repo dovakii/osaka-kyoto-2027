@@ -1,0 +1,244 @@
+{
+  "static": "PASS",
+  "days_preserved": 7,
+  "schedule_rows": 56,
+  "checklist_items": 12,
+  "image_elements": 20,
+  "licensed_photographs": 15,
+  "internal_links": 29,
+  "external": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/Commons:Public_domain"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Autumn_foliage_2012_(8252583379).jpg",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Autumn_foliage_2012_(8252583379).jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Dotonbori,_Osaka,_at_night,_November_2016.jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Garden_at_Tenryuji_Temple_3.jpg",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Garden_at_Tenryuji_Temple_3.jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Kaiyukan.JPG",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Kaiyukan.JPG"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera_in_Kyoto-r.jpg",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera_in_Kyoto-r.jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Kyoto-STA_Central.jpg",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Kyoto-STA_Central.jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Kyoto_Railway_Museum_Shinkansen_Series_500_car_521-1.jpg",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Kyoto_Railway_Museum_Shinkansen_Series_500_car_521-1.jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Kyoto_Railway_Museum_from_train_of_Tokaido_Main_Line.jpg",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Kyoto_Railway_Museum_from_train_of_Tokaido_Main_Line.jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Super_Nintendo_World_Entrance_5th_Anniversary_decoration_at_Universal_Studios_Japan.jpg",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Super_Nintendo_World_Entrance_5th_Anniversary_decoration_at_Universal_Studios_Japan.jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Tempozan_Ferris_Wheel_in_Osaka_at_Dusk.jpg",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Tempozan_Ferris_Wheel_in_Osaka_at_Dusk.jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Togetsukyo0270.jpg",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Togetsukyo0270.jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Universal_Studios_in_Japan.jpg",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Universal_Studios_in_Japan.jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Whale_Shark_-_Osaka_Aquarium.jpg",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Whale_Shark_-_Osaka_Aquarium.jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Yasakanoto_Hokanji-temple_Kyoto.jpg",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Yasakanoto_Hokanji-temple_Kyoto.jpg"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "status": 200,
+      "final_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "status": 200,
+      "final_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by/2.0",
+      "status": 200,
+      "final_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by/2.5",
+      "status": 200,
+      "final_url": "https://creativecommons.org/licenses/by/2.5/"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by/3.0",
+      "status": 200,
+      "final_url": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "status": 200,
+      "final_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "url": "https://ewha-yifu.com/",
+      "status": 200,
+      "final_url": "https://ewha-yifu.com/"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Grand%20Front%20Osaka",
+      "status": 200,
+      "final_url": "https://www.google.com/maps/search/?api=1&query=Grand%20Front%20Osaka"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Granvia%20Kyoto",
+      "status": 200,
+      "final_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Granvia%20Kyoto"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Royal%20Classic%20Osaka",
+      "status": 200,
+      "final_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Royal%20Classic%20Osaka"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Kiyomizu-dera%20Kyoto",
+      "status": 200,
+      "final_url": "https://www.google.com/maps/search/?api=1&query=Kiyomizu-dera%20Kyoto"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Railway%20Museum",
+      "status": 200,
+      "final_url": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Railway%20Museum"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Station%20Kyoto",
+      "status": 200,
+      "final_url": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Station%20Kyoto"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Miyako%20Hotel%20Kyoto%20Hachijo",
+      "status": 200,
+      "final_url": "https://www.google.com/maps/search/?api=1&query=Miyako%20Hotel%20Kyoto%20Hachijo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Nankai%20Namba%20Station%20Osaka",
+      "status": 200,
+      "final_url": "https://www.google.com/maps/search/?api=1&query=Nankai%20Namba%20Station%20Osaka"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Osaka%20Aquarium%20Kaiyukan",
+      "status": 200,
+      "final_url": "https://www.google.com/maps/search/?api=1&query=Osaka%20Aquarium%20Kaiyukan"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Swissotel%20Nankai%20Osaka",
+      "status": 200,
+      "final_url": "https://www.google.com/maps/search/?api=1&query=Swissotel%20Nankai%20Osaka"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Tempozan%20Ferris%20Wheel%20Osaka",
+      "status": 200,
+      "final_url": "https://www.google.com/maps/search/?api=1&query=Tempozan%20Ferris%20Wheel%20Osaka"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Tenryu-ji%20Kyoto",
+      "status": 200,
+      "final_url": "https://www.google.com/maps/search/?api=1&query=Tenryu-ji%20Kyoto"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Togetsukyo%20Bridge%20Kyoto",
+      "status": 200,
+      "final_url": "https://www.google.com/maps/search/?api=1&query=Togetsukyo%20Bridge%20Kyoto"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Universal%20Studios%20Japan%20Osaka",
+      "status": 200,
+      "final_url": "https://www.google.com/maps/search/?api=1&query=Universal%20Studios%20Japan%20Osaka"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Yasaka%20Pagoda%20Kyoto",
+      "status": 200,
+      "final_url": "https://www.google.com/maps/search/?api=1&query=Yasaka%20Pagoda%20Kyoto"
+    },
+    {
+      "url": "https://www.kaiyukan.com/",
+      "status": 200,
+      "final_url": "https://www.kaiyukan.com/"
+    },
+    {
+      "url": "https://www.kyotorailwaymuseum.jp/",
+      "status": 200,
+      "final_url": "https://www.kyotorailwaymuseum.jp/"
+    },
+    {
+      "url": "https://www.nankai.co.jp/en_railway/",
+      "status": 200,
+      "final_url": "https://www.nankai.co.jp/en_railway"
+    },
+    {
+      "url": "https://www.okamoto-kimono.com/",
+      "status": 200,
+      "final_url": "https://www.okamoto-kimono.com/"
+    },
+    {
+      "url": "https://www.sagano-kanko.co.jp/",
+      "status": 200,
+      "final_url": "https://www.sagano-kanko.co.jp/"
+    },
+    {
+      "url": "https://www.usj.co.jp/web/en/us/service-guide/safe/height-restriction",
+      "status": 200,
+      "final_url": "https://www.usj.co.jp/web/en/us/service-guide/safe/height-restriction"
+    },
+    {
+      "url": "https://www.usj.co.jp/web/zh/tw/",
+      "status": 200,
+      "final_url": "https://www.usj.co.jp/web/zh/tw/"
+    },
+    {
+      "url": "https://www.westjr.co.jp/global/tc/ticket/pass/one_way/haruka/",
+      "status": 200,
+      "final_url": "https://www.westjr.co.jp/travel-information/tc/tickets-passes/oneway/haruka/"
+    }
+  ],
+  "maps_queries": 15,
+  "official_websites": 9,
+  "unique_external_links": 46
+}
